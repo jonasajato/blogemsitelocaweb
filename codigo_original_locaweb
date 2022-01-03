@@ -1,0 +1,28 @@
+<table width="190%" cellspacing="0" cellpadding="0" align="center" 
+onclick="if(this.getElementsByTagName('td')[1].style.display == 'none')
+{ this.getElementsByTagName('td')
+[1].style.display = '';this.getElementsByTagName('td')
+[2].style.display = 'none'; }else{ this.getElementsByTagName('td')
+[1].style.display = 'none';this.getElementsByTagName('td')
+[2].style.display = '';}" style="cursor: pointer;">
+<tr><td><span class="genmed"><b>
+<font size="5px" face="Copperplate Gothic Light"><U>
+
+❝ TÍTULO DO ARTIGO ❞
+</U></font> <font color="grey" size="2px">
+▼  Ler Mais</font>
+</b></td></tr><tr><td class="quote" style="display: '';"> 
+</td>
+
+<td class="quote" style="display: none;">
+<table>
+<td width="915" style="vertical-align:justify; 
+border-top: 1px solid #fffff;border-right: 
+1px solid #fffff;border-left: 1px solid #fffff; 
+border-bottom: 1px solid #fffff;"><center><b> 
+<br>
+<center><p align="justify" style="width:915px;"></b>
+
+<br>COLOQUE O SEU CONTEÚDO AQUI</p></center></b></center>
+
+</td></table></td></tr></table><span class="postbody">
